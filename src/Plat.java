@@ -34,7 +34,7 @@ public class Plat {
         return "Plat{" +
                 "nom='" + nom + '\'' +
                 ", prix=" + prix +
-                ", special='" + special + '\'' +
+                 '\'' +
                 '}';
     }
 }
