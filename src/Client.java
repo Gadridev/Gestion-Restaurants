@@ -31,10 +31,10 @@ public class Client {
         this.nom = nom;
     }
     public void ajouterCommend(Commande c){
-        if(!commandes.contains(c)){
+        
             commandes.add(c);
 
-        }
+        
 
     }
 }
